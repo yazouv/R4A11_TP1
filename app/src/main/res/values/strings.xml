@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_name">Name</string>
+    <string name="display_label">Titre nouvelle vue</string>
+    <string name="next">Next</string>
+    <string name="previous">Précédent</string>
+</resources>
